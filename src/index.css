@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 h1,h2, .font-montserrat{
   font-family: "Montserrat", serif;
